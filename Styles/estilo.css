@@ -1,0 +1,38 @@
+header {
+    
+    border: solid blue;
+    position: relative;
+    
+    padding: 20px 0;
+    background-image: url("../Img/logo1.jpg");
+}
+
+.caja1{
+    position: relative;
+    border: solid green;
+    
+}
+
+nav{
+    position: absolute;
+    top: 10px;
+    right: 0%;
+    border: solid orange;
+}
+
+.lista1{
+    display: inline;
+    margin-right:  20px; ;
+    
+}
+
+main{
+    border: solid orange;
+}
+footer{
+    border: solid black;
+    
+}
+
+
+
